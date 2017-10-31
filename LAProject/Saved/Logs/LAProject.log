@@ -7607,3 +7607,273 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2017.10.30-07.14.36:818][276]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC3 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
 [2017.10.30-07.14.46:630][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2017.10.30-07.14.46:680][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.30-07.24.46:737][657]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.018
+[2017.10.30-07.24.46:739][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/metalTexture_Mat] ([1] browsable assets)...
+[2017.10.30-07.24.46:760][657]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/metalTexture_Mat.metalTexture_Mat]
+[2017.10.30-07.24.46:760][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/metalTexture_Mat]
+[2017.10.30-07.24.46:779][657]LogSavePackage: Save=11.18ms
+[2017.10.30-07.24.46:779][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/metalTexture_Mat_Auto66D2E271A4D4190F3C1243BA82E831891.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/ThirdPersonBP/metalTexture_Mat_Auto6.uasset'
+[2017.10.30-07.24.46:781][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/ThirdPersonBP/metalTexture_Mat_Auto6.uasset
+[2017.10.30-07.24.46:781][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Supreme_Logo] ([1] browsable assets)...
+[2017.10.30-07.24.46:801][657]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Supreme_Logo.Supreme_Logo]
+[2017.10.30-07.24.46:801][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Supreme_Logo]
+[2017.10.30-07.24.46:835][657]LogSavePackage: Save=28.12ms
+[2017.10.30-07.24.46:835][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Supreme_Logo_Auto6B73D58FB42E8655994D2C58F0C47D3AD.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/ThirdPersonBP/Supreme_Logo_Auto6.uasset'
+[2017.10.30-07.24.46:837][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/ThirdPersonBP/Supreme_Logo_Auto6.uasset
+[2017.10.30-07.24.46:837][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/lambert2] ([1] browsable assets)...
+[2017.10.30-07.24.46:856][657]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/lambert2.lambert2]
+[2017.10.30-07.24.46:856][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/lambert2]
+[2017.10.30-07.24.46:873][657]LogSavePackage: Save=10.41ms
+[2017.10.30-07.24.46:873][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/lambert2_Auto622E9BEA94C7523A1ECD2CBBC7FB8E713.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/ThirdPersonBP/lambert2_Auto6.uasset'
+[2017.10.30-07.24.46:874][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/ThirdPersonBP/lambert2_Auto6.uasset
+[2017.10.30-07.24.46:875][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/lambert3] ([1] browsable assets)...
+[2017.10.30-07.24.46:893][657]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/lambert3.lambert3]
+[2017.10.30-07.24.46:893][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/lambert3]
+[2017.10.30-07.24.46:909][657]LogSavePackage: Save=9.53ms
+[2017.10.30-07.24.46:909][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/lambert3_Auto6076CA79F463F5E213ACEB6B19E236162.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/ThirdPersonBP/lambert3_Auto6.uasset'
+[2017.10.30-07.24.46:910][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/ThirdPersonBP/lambert3_Auto6.uasset
+[2017.10.30-07.24.46:911][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Clown/Zombie_Idle__1_] ([1] browsable assets)...
+[2017.10.30-07.24.46:931][657]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Clown/Zombie_Idle__1_.Zombie_Idle__1_]
+[2017.10.30-07.24.46:931][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Clown/Zombie_Idle__1_]
+[2017.10.30-07.24.46:944][657]LogSavePackage: Save=11.83ms
+[2017.10.30-07.24.46:944][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Zombie_Idle__1__Auto63FFFDE194EA54A6C348154B42AC57808.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Clown/Zombie_Idle__1__Auto6.uasset'
+[2017.10.30-07.24.46:945][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Clown/Zombie_Idle__1__Auto6.uasset
+[2017.10.30-07.24.46:946][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Clown/Zombie_Idle__2_] ([1] browsable assets)...
+[2017.10.30-07.24.46:965][657]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Clown/Zombie_Idle__2_.Zombie_Idle__2_]
+[2017.10.30-07.24.46:965][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Clown/Zombie_Idle__2_]
+[2017.10.30-07.24.46:976][657]LogSavePackage: Save=10.42ms
+[2017.10.30-07.24.46:976][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Zombie_Idle__2__Auto6B896140B472E2E4BF09F82964BF8A99C.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Clown/Zombie_Idle__2__Auto6.uasset'
+[2017.10.30-07.24.46:978][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Clown/Zombie_Idle__2__Auto6.uasset
+[2017.10.30-07.24.46:979][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/Sitting__2_] ([1] browsable assets)...
+[2017.10.30-07.24.46:997][657]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Model/Sitting__2_.Sitting__2_]
+[2017.10.30-07.24.46:997][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Sitting__2_]
+[2017.10.30-07.24.47:011][657]LogSavePackage: Save=12.47ms
+[2017.10.30-07.24.47:011][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Sitting__2__Auto6A05F89804C6CFF22C7D41DABE40B0CC0.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Model/Sitting__2__Auto6.uasset'
+[2017.10.30-07.24.47:013][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Model/Sitting__2__Auto6.uasset
+[2017.10.30-07.24.47:013][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Salsa_Dancing] ([1] browsable assets)...
+[2017.10.30-07.24.47:034][657]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Actor/Salsa_Dancing.Salsa_Dancing]
+[2017.10.30-07.24.47:034][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Salsa_Dancing]
+[2017.10.30-07.24.47:080][657]LogSavePackage: Save=45.32ms
+[2017.10.30-07.24.47:080][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Salsa_Dancing_Auto6BF15944E47BB8827661C51928B031550.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Salsa_Dancing_Auto6.uasset'
+[2017.10.30-07.24.47:081][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Salsa_Dancing_Auto6.uasset
+[2017.10.30-07.24.47:082][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Body_Diffuse] ([1] browsable assets)...
+[2017.10.30-07.24.47:089][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Body_Diffuse.Malcom_Body_Diffuse]
+[2017.10.30-07.24.47:089][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Body_Diffuse]
+[2017.10.30-07.24.47:100][657]LogSavePackage: Save=8.96ms
+[2017.10.30-07.24.47:100][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Body_Diffuse_Auto6A552F475442C79130501889F3DF737F8.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Body_Diffuse_Auto6.uasset'
+[2017.10.30-07.24.47:101][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Body_Diffuse_Auto6.uasset
+[2017.10.30-07.24.47:102][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Body_Specular] ([1] browsable assets)...
+[2017.10.30-07.24.47:110][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Body_Specular.Malcom_Body_Specular]
+[2017.10.30-07.24.47:110][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Body_Specular]
+[2017.10.30-07.24.47:119][657]LogSavePackage: Save=7.82ms
+[2017.10.30-07.24.47:119][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Body_Specular_Auto6BC67BCE8421F8751BB57C2B43C57DD29.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Body_Specular_Auto6.uasset'
+[2017.10.30-07.24.47:121][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Body_Specular_Auto6.uasset
+[2017.10.30-07.24.47:121][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Body_Gloss] ([1] browsable assets)...
+[2017.10.30-07.24.47:129][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Body_Gloss.Malcom_Body_Gloss]
+[2017.10.30-07.24.47:129][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Body_Gloss]
+[2017.10.30-07.24.47:138][657]LogSavePackage: Save=7.76ms
+[2017.10.30-07.24.47:138][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Body_Gloss_Auto6CA1B482C40184D4F41B9FDA28C602D79.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Body_Gloss_Auto6.uasset'
+[2017.10.30-07.24.47:140][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Body_Gloss_Auto6.uasset
+[2017.10.30-07.24.47:140][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Body_Normal] ([1] browsable assets)...
+[2017.10.30-07.24.47:148][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Body_Normal.Malcom_Body_Normal]
+[2017.10.30-07.24.47:148][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Body_Normal]
+[2017.10.30-07.24.47:160][657]LogSavePackage: Save=10.32ms
+[2017.10.30-07.24.47:160][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Body_Normal_Auto60D0ED936419E893F31755990409D4540.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Body_Normal_Auto6.uasset'
+[2017.10.30-07.24.47:162][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Body_Normal_Auto6.uasset
+[2017.10.30-07.24.47:162][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Body_Opacity] ([1] browsable assets)...
+[2017.10.30-07.24.47:171][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Body_Opacity.Malcom_Body_Opacity]
+[2017.10.30-07.24.47:171][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Body_Opacity]
+[2017.10.30-07.24.47:178][657]LogSavePackage: Save=5.56ms
+[2017.10.30-07.24.47:178][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Body_Opacity_Auto6A9BB8BDD40EE365D3475D8844984D5F7.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Body_Opacity_Auto6.uasset'
+[2017.10.30-07.24.47:180][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Body_Opacity_Auto6.uasset
+[2017.10.30-07.24.47:181][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Top_Diffuse] ([1] browsable assets)...
+[2017.10.30-07.24.47:187][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Top_Diffuse.Malcom_Top_Diffuse]
+[2017.10.30-07.24.47:187][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Top_Diffuse]
+[2017.10.30-07.24.47:196][657]LogSavePackage: Save=8.01ms
+[2017.10.30-07.24.47:196][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Top_Diffuse_Auto64B39900A4E886397205DCBB7B24254C7.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Top_Diffuse_Auto6.uasset'
+[2017.10.30-07.24.47:198][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Top_Diffuse_Auto6.uasset
+[2017.10.30-07.24.47:198][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Top_Specular] ([1] browsable assets)...
+[2017.10.30-07.24.47:203][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Top_Specular.Malcom_Top_Specular]
+[2017.10.30-07.24.47:204][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Top_Specular]
+[2017.10.30-07.24.47:210][657]LogSavePackage: Save=5.20ms
+[2017.10.30-07.24.47:210][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Top_Specular_Auto6A8FA43AF464A5BAD338B1A85119C23F2.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Top_Specular_Auto6.uasset'
+[2017.10.30-07.24.47:211][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Top_Specular_Auto6.uasset
+[2017.10.30-07.24.47:212][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Top_Gloss] ([1] browsable assets)...
+[2017.10.30-07.24.47:217][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Top_Gloss.Malcom_Top_Gloss]
+[2017.10.30-07.24.47:217][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Top_Gloss]
+[2017.10.30-07.24.47:226][657]LogSavePackage: Save=7.26ms
+[2017.10.30-07.24.47:226][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Top_Gloss_Auto660BD82D0431FBC09FC9431B9276804C8.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Top_Gloss_Auto6.uasset'
+[2017.10.30-07.24.47:227][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Top_Gloss_Auto6.uasset
+[2017.10.30-07.24.47:228][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Top_Normal] ([1] browsable assets)...
+[2017.10.30-07.24.47:235][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Top_Normal.Malcom_Top_Normal]
+[2017.10.30-07.24.47:235][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Top_Normal]
+[2017.10.30-07.24.47:247][657]LogSavePackage: Save=9.77ms
+[2017.10.30-07.24.47:247][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Top_Normal_Auto64FCC432F4050B29016B10092717E9A4E.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Top_Normal_Auto6.uasset'
+[2017.10.30-07.24.47:248][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Top_Normal_Auto6.uasset
+[2017.10.30-07.24.47:249][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Top_Opacity] ([1] browsable assets)...
+[2017.10.30-07.24.47:257][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Top_Opacity.Malcom_Top_Opacity]
+[2017.10.30-07.24.47:257][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Top_Opacity]
+[2017.10.30-07.24.47:264][657]LogSavePackage: Save=5.77ms
+[2017.10.30-07.24.47:264][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Top_Opacity_Auto6E2A2AE6B4F29F4A976C3AC99D62A119B.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Top_Opacity_Auto6.uasset'
+[2017.10.30-07.24.47:265][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Top_Opacity_Auto6.uasset
+[2017.10.30-07.24.47:266][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Hat_Diffuse] ([1] browsable assets)...
+[2017.10.30-07.24.47:273][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Hat_Diffuse.Malcom_Hat_Diffuse]
+[2017.10.30-07.24.47:273][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Hat_Diffuse]
+[2017.10.30-07.24.47:283][657]LogSavePackage: Save=7.88ms
+[2017.10.30-07.24.47:283][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Hat_Diffuse_Auto6060A1D924CAB46EE28E7DF805D1A86FA.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hat_Diffuse_Auto6.uasset'
+[2017.10.30-07.24.47:284][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hat_Diffuse_Auto6.uasset
+[2017.10.30-07.24.47:284][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Hat_Specular] ([1] browsable assets)...
+[2017.10.30-07.24.47:288][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Hat_Specular.Malcom_Hat_Specular]
+[2017.10.30-07.24.47:288][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Hat_Specular]
+[2017.10.30-07.24.47:294][657]LogSavePackage: Save=4.19ms
+[2017.10.30-07.24.47:294][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Hat_Specular_Auto64CEE9A0D402636AFB2439BA8415313D3.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hat_Specular_Auto6.uasset'
+[2017.10.30-07.24.47:295][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hat_Specular_Auto6.uasset
+[2017.10.30-07.24.47:296][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Hat_Gloss] ([1] browsable assets)...
+[2017.10.30-07.24.47:300][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Hat_Gloss.Malcom_Hat_Gloss]
+[2017.10.30-07.24.47:300][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Hat_Gloss]
+[2017.10.30-07.24.47:309][657]LogSavePackage: Save=6.80ms
+[2017.10.30-07.24.47:309][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Hat_Gloss_Auto6E5F77CF849CC8439AD66E9B160628F49.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hat_Gloss_Auto6.uasset'
+[2017.10.30-07.24.47:310][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hat_Gloss_Auto6.uasset
+[2017.10.30-07.24.47:311][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Hat_Normal] ([1] browsable assets)...
+[2017.10.30-07.24.47:319][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Hat_Normal.Malcom_Hat_Normal]
+[2017.10.30-07.24.47:319][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Hat_Normal]
+[2017.10.30-07.24.47:330][657]LogSavePackage: Save=10.24ms
+[2017.10.30-07.24.47:330][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Hat_Normal_Auto69C0FBF4842199549874C5B807C04C59D.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hat_Normal_Auto6.uasset'
+[2017.10.30-07.24.47:332][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hat_Normal_Auto6.uasset
+[2017.10.30-07.24.47:332][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Hat_Opacity] ([1] browsable assets)...
+[2017.10.30-07.24.47:340][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Hat_Opacity.Malcom_Hat_Opacity]
+[2017.10.30-07.24.47:340][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Hat_Opacity]
+[2017.10.30-07.24.47:346][657]LogSavePackage: Save=4.23ms
+[2017.10.30-07.24.47:346][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Hat_Opacity_Auto6590D4D7E47D28224E2EAFD93AC92E12E.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hat_Opacity_Auto6.uasset'
+[2017.10.30-07.24.47:347][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hat_Opacity_Auto6.uasset
+[2017.10.30-07.24.47:348][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Hair_Diffuse] ([1] browsable assets)...
+[2017.10.30-07.24.47:355][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Hair_Diffuse.Malcom_Hair_Diffuse]
+[2017.10.30-07.24.47:355][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Hair_Diffuse]
+[2017.10.30-07.24.47:365][657]LogSavePackage: Save=7.16ms
+[2017.10.30-07.24.47:365][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Hair_Diffuse_Auto65AC063B94457D8A6C4FCB1B2F61AFDA7.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hair_Diffuse_Auto6.uasset'
+[2017.10.30-07.24.47:366][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hair_Diffuse_Auto6.uasset
+[2017.10.30-07.24.47:367][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Hair_Specular] ([1] browsable assets)...
+[2017.10.30-07.24.47:373][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Hair_Specular.Malcom_Hair_Specular]
+[2017.10.30-07.24.47:373][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Hair_Specular]
+[2017.10.30-07.24.47:381][657]LogSavePackage: Save=5.57ms
+[2017.10.30-07.24.47:381][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Hair_Specular_Auto63E986C6B4FAF4BA1E6152698882A6941.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hair_Specular_Auto6.uasset'
+[2017.10.30-07.24.47:382][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hair_Specular_Auto6.uasset
+[2017.10.30-07.24.47:383][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Hair_Gloss] ([1] browsable assets)...
+[2017.10.30-07.24.47:389][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Hair_Gloss.Malcom_Hair_Gloss]
+[2017.10.30-07.24.47:389][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Hair_Gloss]
+[2017.10.30-07.24.47:397][657]LogSavePackage: Save=6.22ms
+[2017.10.30-07.24.47:397][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Hair_Gloss_Auto6C1FC930049CB943335544EAC136955E9.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hair_Gloss_Auto6.uasset'
+[2017.10.30-07.24.47:399][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hair_Gloss_Auto6.uasset
+[2017.10.30-07.24.47:399][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Hair_Normal] ([1] browsable assets)...
+[2017.10.30-07.24.47:407][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Hair_Normal.Malcom_Hair_Normal]
+[2017.10.30-07.24.47:407][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Hair_Normal]
+[2017.10.30-07.24.47:416][657]LogSavePackage: Save=7.44ms
+[2017.10.30-07.24.47:416][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Hair_Normal_Auto65087B9334FE8F85C1ABD2A82516DA649.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hair_Normal_Auto6.uasset'
+[2017.10.30-07.24.47:417][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hair_Normal_Auto6.uasset
+[2017.10.30-07.24.47:418][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Hair_Opacity] ([1] browsable assets)...
+[2017.10.30-07.24.47:424][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Hair_Opacity.Malcom_Hair_Opacity]
+[2017.10.30-07.24.47:424][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Hair_Opacity]
+[2017.10.30-07.24.47:433][657]LogSavePackage: Save=7.34ms
+[2017.10.30-07.24.47:433][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Hair_Opacity_Auto6550BAC3845E2CFDED9907C87158CAF38.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hair_Opacity_Auto6.uasset'
+[2017.10.30-07.24.47:434][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Hair_Opacity_Auto6.uasset
+[2017.10.30-07.24.47:435][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Bottom_Diffuse] ([1] browsable assets)...
+[2017.10.30-07.24.47:442][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Bottom_Diffuse.Malcom_Bottom_Diffuse]
+[2017.10.30-07.24.47:442][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Bottom_Diffuse]
+[2017.10.30-07.24.47:452][657]LogSavePackage: Save=8.62ms
+[2017.10.30-07.24.47:452][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Bottom_Diffuse_Auto65C3A81B04630885DEA6C0DAB0B3EEB11.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Bottom_Diffuse_Auto6.uasset'
+[2017.10.30-07.24.47:454][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Bottom_Diffuse_Auto6.uasset
+[2017.10.30-07.24.47:455][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Bottom_Specular] ([1] browsable assets)...
+[2017.10.30-07.24.47:460][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Bottom_Specular.Malcom_Bottom_Specular]
+[2017.10.30-07.24.47:460][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Bottom_Specular]
+[2017.10.30-07.24.47:466][657]LogSavePackage: Save=5.21ms
+[2017.10.30-07.24.47:466][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Bottom_Specular_Auto60D7A119F4633AF1B3FADF9971BF8BA92.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Bottom_Specular_Auto6.uasset'
+[2017.10.30-07.24.47:467][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Bottom_Specular_Auto6.uasset
+[2017.10.30-07.24.47:468][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Bottom_Gloss] ([1] browsable assets)...
+[2017.10.30-07.24.47:474][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Bottom_Gloss.Malcom_Bottom_Gloss]
+[2017.10.30-07.24.47:474][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Bottom_Gloss]
+[2017.10.30-07.24.47:483][657]LogSavePackage: Save=6.96ms
+[2017.10.30-07.24.47:483][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Bottom_Gloss_Auto6ECD3ED7D440265C32486139DB7D112AB.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Bottom_Gloss_Auto6.uasset'
+[2017.10.30-07.24.47:484][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Bottom_Gloss_Auto6.uasset
+[2017.10.30-07.24.47:485][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Bottom_Normal] ([1] browsable assets)...
+[2017.10.30-07.24.47:492][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Bottom_Normal.Malcom_Bottom_Normal]
+[2017.10.30-07.24.47:492][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Bottom_Normal]
+[2017.10.30-07.24.47:505][657]LogSavePackage: Save=11.31ms
+[2017.10.30-07.24.47:505][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Bottom_Normal_Auto62848D4AF4B60BD05F7219CB9BB48D3E9.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Bottom_Normal_Auto6.uasset'
+[2017.10.30-07.24.47:507][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Bottom_Normal_Auto6.uasset
+[2017.10.30-07.24.47:508][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Bottom_Opacity] ([1] browsable assets)...
+[2017.10.30-07.24.47:517][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Bottom_Opacity.Malcom_Bottom_Opacity]
+[2017.10.30-07.24.47:517][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Bottom_Opacity]
+[2017.10.30-07.24.47:523][657]LogSavePackage: Save=4.95ms
+[2017.10.30-07.24.47:524][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Bottom_Opacity_Auto6EB9D540441304D2D5E2EEAB8460A6E4A.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Bottom_Opacity_Auto6.uasset'
+[2017.10.30-07.24.47:525][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Bottom_Opacity_Auto6.uasset
+[2017.10.30-07.24.47:526][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Shoes_Diffuse] ([1] browsable assets)...
+[2017.10.30-07.24.47:533][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Shoes_Diffuse.Malcom_Shoes_Diffuse]
+[2017.10.30-07.24.47:533][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Shoes_Diffuse]
+[2017.10.30-07.24.47:543][657]LogSavePackage: Save=8.62ms
+[2017.10.30-07.24.47:543][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Shoes_Diffuse_Auto6B77D73F548C05853F0328BA9495C3AF9.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Shoes_Diffuse_Auto6.uasset'
+[2017.10.30-07.24.47:544][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Shoes_Diffuse_Auto6.uasset
+[2017.10.30-07.24.47:545][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Shoes_Specular] ([1] browsable assets)...
+[2017.10.30-07.24.47:551][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Shoes_Specular.Malcom_Shoes_Specular]
+[2017.10.30-07.24.47:551][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Shoes_Specular]
+[2017.10.30-07.24.47:561][657]LogSavePackage: Save=8.70ms
+[2017.10.30-07.24.47:561][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Shoes_Specular_Auto6293922014CE1E221A6006594F6829BE5.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Shoes_Specular_Auto6.uasset'
+[2017.10.30-07.24.47:562][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Shoes_Specular_Auto6.uasset
+[2017.10.30-07.24.47:563][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Shoes_Gloss] ([1] browsable assets)...
+[2017.10.30-07.24.47:570][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Shoes_Gloss.Malcom_Shoes_Gloss]
+[2017.10.30-07.24.47:570][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Shoes_Gloss]
+[2017.10.30-07.24.47:579][657]LogSavePackage: Save=8.42ms
+[2017.10.30-07.24.47:580][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Shoes_Gloss_Auto6E9C105CA453A3CB59FD9379DD2D5E889.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Shoes_Gloss_Auto6.uasset'
+[2017.10.30-07.24.47:581][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Shoes_Gloss_Auto6.uasset
+[2017.10.30-07.24.47:581][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Shoes_Normal] ([1] browsable assets)...
+[2017.10.30-07.24.47:588][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Shoes_Normal.Malcom_Shoes_Normal]
+[2017.10.30-07.24.47:588][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Shoes_Normal]
+[2017.10.30-07.24.47:614][657]LogSavePackage: Save=23.68ms
+[2017.10.30-07.24.47:614][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Shoes_Normal_Auto62FE7FD2145F4E994A752C181ACADBEEB.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Shoes_Normal_Auto6.uasset'
+[2017.10.30-07.24.47:615][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Shoes_Normal_Auto6.uasset
+[2017.10.30-07.24.47:615][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Malcom_Shoes_Opacity] ([1] browsable assets)...
+[2017.10.30-07.24.47:623][657]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Actor/Malcom_Shoes_Opacity.Malcom_Shoes_Opacity]
+[2017.10.30-07.24.47:623][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Malcom_Shoes_Opacity]
+[2017.10.30-07.24.47:630][657]LogSavePackage: Save=5.60ms
+[2017.10.30-07.24.47:630][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Malcom_Shoes_Opacity_Auto6ED39F6A74FF4D169AC41C18DB67418BE.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Shoes_Opacity_Auto6.uasset'
+[2017.10.30-07.24.47:631][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Malcom_Shoes_Opacity_Auto6.uasset
+[2017.10.30-07.24.47:632][657]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Actor/Salsa_Dancing_Skeleton] ([1] browsable assets)...
+[2017.10.30-07.24.47:632][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Salsa_Dancing_Skeleton]
+[2017.10.30-07.24.47:635][657]LogSavePackage: Save=2.18ms
+[2017.10.30-07.24.47:635][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Salsa_Dancing_Skeleton_Auto600A17832421469A445C7C8BF2677B0ED.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Salsa_Dancing_Skeleton_Auto6.uasset'
+[2017.10.30-07.24.47:636][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Salsa_Dancing_Skeleton_Auto6.uasset
+[2017.10.30-07.24.47:637][657]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Actor/Salsa_Dancing_PhysicsAsset] ([1] browsable assets)...
+[2017.10.30-07.24.47:637][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Salsa_Dancing_PhysicsAsset]
+[2017.10.30-07.24.47:649][657]LogSavePackage: Save=10.83ms
+[2017.10.30-07.24.47:649][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Salsa_Dancing_PhysicsAsset_Auto6AD2FA2EB46D611DE7D9B29B29EC536C8.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Salsa_Dancing_PhysicsAsset_Auto6.uasset'
+[2017.10.30-07.24.47:650][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Salsa_Dancing_PhysicsAsset_Auto6.uasset
+[2017.10.30-07.24.47:651][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actor/Salsa_Dancing_Anim] ([1] browsable assets)...
+[2017.10.30-07.24.47:669][657]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Actor/Salsa_Dancing_Anim.Salsa_Dancing_Anim]
+[2017.10.30-07.24.47:669][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/Salsa_Dancing_Anim]
+[2017.10.30-07.24.47:682][657]LogSavePackage: Save=11.06ms
+[2017.10.30-07.24.47:682][657]LogSavePackage: Moving '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Salsa_Dancing_Anim_Auto6274278EA4ECA7E9C45042DB0911FC93C.tmp' to '../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Salsa_Dancing_Anim_Auto6.uasset'
+[2017.10.30-07.24.47:683][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bartow/Documents/Unreal Projects/LAGame/LAProject/Saved/Autosaves/Game/Actor/Salsa_Dancing_Anim_Auto6.uasset
+[2017.10.30-07.24.47:683][657]LogFileHelpers: Auto-saving content packages took 0.945
+[2017.10.31-03.42.39:886][166]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC2)
+[2017.10.31-03.44.46:419][333]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.31-03.44.46:440][333]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.31-03.44.46:440][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.31-03.44.46:440][333]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 30, 2017, 1:44:46 PM)
+[2017.10.31-03.44.46:441][333]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.31-03.44.46:647][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.205563s)
+[2017.10.31-03.44.46:649][333]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.31-03.44.46:650][333]LogPlayLevel: PIE: World Init took: (0.002910s)
+[2017.10.31-03.44.46:650][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.209190s)
+[2017.10.31-03.44.46:684][333]LogInit: XAudio2 using 'ASUS VN247-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.31-03.44.46:692][333]LogInit: FAudioDevice initialized.
+[2017.10.31-03.44.46:726][333]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.31-03.44.46:732][333]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.30-20.44.46
+[2017.10.31-03.44.46:732][333]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2017.10.31-03.44.46:733][333]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC3 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2017.10.31-03.44.46:733][333]LogWorld: Bringing up level for play took: 0.005827
+[2017.10.31-03.44.46:735][333]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.329
+[2017.10.31-03.44.46:735][333]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.31-03.44.46:736][333]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2017.10.31-03.44.46:736][333]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC2 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2017.10.31-03.44.46:736][333]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.NPC3 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2017.10.31-03.45.00:733][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.31-03.45.00:809][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
